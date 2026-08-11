@@ -1,43 +1,47 @@
-# Hi, ich bin Atef Issaoui 👋
+# Atef Issaoui
 
-Ich bin Maschinenbau-Student (berufsbegleitend) an der Hochschule Rhein-Main mit einem wachsenden Fokus auf **Machine Learning und Predictive Maintenance**.
+Metallograph · Zertifizierter Datenanalyst · Maschinenbau-Student
 
----
+Ausschussreduzierung und Prozessoptimierung lassen sich aus unterschiedlichen Perspektiven angehen.
 
-## 🔧 Was ich mache
+Seit über 13 Jahren als Metallograph in der Industrie: Qualitätssicherung, Produktionsüberwachung, Bearbeitung von internen und externen Reklamationen, Untersuchungen am REM, Beurteilen von Werkstoffen gem. Spezifikationen.
 
-- Maschinenbau-Student mit Praxiserfahrung in der Industrie
-- ML-Weiterbildung an der Technischen Hochschule Deggendorf
-- Interesse an der Verbindung von **Maschinenbau und Datenanalyse**
+Datenanalyse und Maschinelles Lernen stellen dieselbe Frage auf andere Weise: Was steckt hinter einem Fehler, und wie erkennt man ihn früh genug?
 
 ---
 
-## 🛠️ Skills
+## Studium
 
-**Machine Learning & Data Science**
-`Python` · `scikit-learn` · `pandas` · `NumPy` · `Matplotlib` · `Seaborn`
+- Maschinenbau B.Eng. — Hochschule Rhein-Main (laufend, 5. Semester)
 
-**ML-Methoden**
-`Random Forest` · `Naive Bayes` · `Pipeline-Design` · `GridSearchCV` · `Cross-Validation`
+## Weiterbildung
 
-**Tools**
-`Jupyter Notebook` · `joblib` · `Git`
+- Hochschulzertifikat Maschinelles Lernen in Python — TH Deggendorf
+- Zertifizierter Datenanalyst (Descriptive Datenanalyse mit Python) — TH Deggendorf
+- Programmieren in Python (Grundlagen & Fortgeschritten) — TH Deggendorf
+- Six Sigma Green Belt — TH Deggendorf (laufend)
+- Six Sigma Yellow Belt — TH Deggendorf (ISO 13053-1/2)
+- Lean Management & Kaizen Practitioner — TH Deggendorf
+- Rasterelektronenmikroskopie R2 & R3 — Akademie für Elektronenmikroskopie und Analytik gGmbH
 
----
+## Ausbildung
 
-## 📁 Projekte
-
-### 🚛 [Predictive Maintenance – Scania APS Failure](https://github.com/ateeef/scania-predictive-maintenance)
-> Vorhersage von Ausfällen im Air Pressure System (APS) von Scania-LKWs  
-> **Ergebnis:** 91 % der defekten LKWs erkannt (Recall) auf 60.000 Datensätzen  
-> `Python` · `scikit-learn` · `Naive Bayes` · `Random Forest` · `Pipeline`
+- Technischer Assistent für Metallographie und Werkstoffanalyse
 
 ---
 
-## 📬 Kontakt
+## Projekt
 
-- 📧 issaouiatef@gmail.com
+**[Predictive Maintenance – Scania APS Failure Detection](https://github.com/Ateeef/scania-predictive-maintenance)**  
+APS-Fehlervorhersage auf 60.000 echten Betriebsdatensätzen von Scania-LKWs.  
+91 % der defekten LKWs erkannt (Recall) — mit Gaussian Naive Bayes, optimiert auf Kostenminimierung.
 
 ---
 
-*Maschinenbau trifft auf Machine Learning.*
+## Tech
+
+`Python` · `scikit-learn` · `pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `joblib`
+
+---
+
+issaouiatef@gmail.com
