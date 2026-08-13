@@ -1,13 +1,12 @@
 # Atef Issaoui
 
-Metallograph · Zertifizierter Datenanalyst · Maschinenbau-Student
+Maschinenbau-Student · Metallograph · Datenanalyst & Machine Learning mit Python
 
-Ausschussreduzierung und Prozessoptimierung lassen sich aus unterschiedlichen Perspektiven angehen.
+Ich arbeite seit über 13 Jahren in der Qualitätsabteilung als Metallograph — Reklamationen, REM-Analysen, Werkstoffbeurteilung.
 
-Seit über 13 Jahren als Metallograph in der Industrie: Qualitätssicherung, Produktionsüberwachung, Bearbeitung von internen und externen Reklamationen, Untersuchungen am REM, Beurteilen von Werkstoffen gem. Spezifikationen.
+Im Berufspraxis-Modul meines Studiums habe ich mich für eine Weiterbildung in Richtung Data Science entschieden — von Programmieren mit Python bis zur Modellentwicklung mit Machine Learning.
 
-Datenanalyse und Maschinelles Lernen stellen dieselbe Frage auf andere Weise: Was steckt hinter einem Fehler, und wie erkennt man ihn früh genug?
-
+Ich bin offen für unterschiedliche Sichtweisen, wie man Probleme in der Industrie löst — ob durch Werkstoffuntersuchungen, Daten und Fakten, technisches Wissen und Physik oder durch Machine Learning, wenn die Daten keinen direkten Einblick erlauben und ein Modell mit verlässlicher Wahrscheinlichkeit die beste Wahl ist.
 ---
 
 ## Studium
