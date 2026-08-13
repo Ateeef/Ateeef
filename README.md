@@ -7,6 +7,7 @@ Ich arbeite seit über 13 Jahren in der Qualitätsabteilung als Metallograph —
 Im Berufspraxis-Modul meines Studiums habe ich mich für eine Weiterbildung in Richtung Data Science entschieden — von Programmieren mit Python bis zur Modellentwicklung mit Machine Learning.
 
 Ich bin offen für unterschiedliche Sichtweisen, wie man Probleme in der Industrie löst — ob durch Werkstoffuntersuchungen, Daten und Fakten, technisches Wissen und Physik oder durch Machine Learning, wenn die Daten keinen direkten Einblick erlauben und ein Modell mit verlässlicher Wahrscheinlichkeit die beste Wahl ist.
+
 ---
 
 ## Studium
