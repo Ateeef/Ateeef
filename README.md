@@ -27,6 +27,7 @@ Ich bin offen für unterschiedliche Sichtweisen, wie man Probleme in der Industr
 ## Ausbildung
 
 - Technischer Assistent für Metallographie und Werkstoffanalyse
+-  Abitur Fachrichtung Mathematik
 
 ---
 
