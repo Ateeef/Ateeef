@@ -1,6 +1,6 @@
 # Atef Issaoui
 
-Maschinenbau-Student · Metallograph · Datenanalyst & Machine Learning mit Python
+Metallograph . Datenanalyst & Machine Learning mit Python . Maschinenbau-Student   
 
 Ich arbeite seit über 13 Jahren in der Qualitätssicherung als Metallograph,Reklamationsbearbeitung, REM-Analysen und Werkstoffbeurteilung.
 
