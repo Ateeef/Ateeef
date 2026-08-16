@@ -6,7 +6,7 @@ Ich arbeite seit über 13 Jahren in der Qualitätssicherung als Metallograph,Rek
 
 Im Berufspraxis-Modul meines Studiums habe ich mich für Data Science entschieden, von Python-Programmierung über explorative Datenanalyse bis zur ML-Modellentwicklung.
 
-Ich kombiniere Ingenieurwissen aus dem Studium mit datengetriebenen Methoden (EDA und ML) – je nachdem, was die Aufgabe verlangt.
+Mich interessiert die Kombination aus Ingenieurwissen und datengetriebenen Methoden (EDA und ML) — um industrielle Aufgaben gezielt anzugehen.
 
 ---
 
