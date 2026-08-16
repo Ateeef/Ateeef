@@ -2,11 +2,11 @@
 
 Maschinenbau-Student · Metallograph · Datenanalyst & Machine Learning mit Python
 
-Ich arbeite seit über 13 Jahren in der Qualitätsabteilung als Metallograph — Reklamationen, REM-Analysen, Werkstoffbeurteilung.
+Ich arbeite seit über 13 Jahren in der Qualitätssicherung als Metallograph,Reklamationsbearbeitung, REM-Analysen und Werkstoffbeurteilung.
 
-Im Berufspraxis-Modul meines Studiums habe ich mich für eine Weiterbildung in Richtung Data Science entschieden — von Programmieren mit Python bis zur Modellentwicklung mit Machine Learning.
+Im Berufspraxis-Modul meines Studiums habe ich mich für Data Science entschieden, von Python-Programmierung über explorative Datenanalyse bis zur ML-Modellentwicklung.
 
-Ich bin offen für unterschiedliche Sichtweisen, wie man Probleme in der Industrie löst — ob durch Werkstoffuntersuchungen,Ingenieurwissen,datengetriebene Analyse, oder durch Machine Learning, wenn die Daten keinen direkten Einblick erlauben und ein Modell mit verlässlicher Wahrscheinlichkeit die beste Wahl ist.
+Ich kombiniere Ingenieurwissen und Werkstoffkompetenz mit datengetriebenen Methoden ,je nachdem, was die Aufgabe verlangt.
 
 ---
 
